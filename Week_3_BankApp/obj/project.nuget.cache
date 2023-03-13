@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xz1MwcqefKLjSEyNgiKJ339+CzDQVli2feBo7uVvD0nD89mb+z2C/Rlh9cFkny3VuSwMd9ExBPNQWp06K7hFYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\Desktop\\MY_TASKS\\week-4-Ordunharlaryor\\Week_4_BankApp_with_UnitTesting\\Week_3_BankApp\\Week_3_BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
